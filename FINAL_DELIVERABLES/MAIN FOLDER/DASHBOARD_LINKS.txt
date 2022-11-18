@@ -1,0 +1,31 @@
+
+GitHub LINK: 
+https://github.com/IBM-EPBL/IBM-Project-42163-1660653915
+
+
+DASHBOARD LINK:
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fsp_2_Exploration_dashboard&action=view&mode=dashboard&subView=model0000018462a2b91e_00000002
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fsp_2_Exploration_dashboard&action=view&mode=dashboard&subView=model00000184891198fc_00000000
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fsp_2_Exploration_dashboard&action=view&mode=dashboard&subView=model00000184892aab59_00000000
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard_to_Show_no.of_Patients&action=view&mode=dashboard&subView=model0000018433948d1a_00000002
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%2Bwith%2BHierarchy%2BBubble%2526%2BRadial%2BVisuals&action=view&mode=dashboard&subView=model0000018433c88114_00000002
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAGE_WISE_PATIENTS_WITH_DEP%2526SEVERITY&action=view&mode=dashboard&subView=model0000018433b8f454_00000002
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDB_Pie_StackedBar_Waterfall%2526PieCharts&action=view&mode=dashboard&subView=model0000018433cf6581_00000003
+
+
+
+REPORT:
+https://us3.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FNew%2Breport%2BHealthcare&action=run&format=HTML&prompt=false
+
+
+STORY:
+https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2Fstory%2Btelling%2Bda&action=view&sceneId=model00000184705f64ae_00000001&sceneTime=0
+
+IBM DRIVE LINK:
+https://drive.google.com/drive/folders/1EvwjTPOIOBMkuPHIjP8FjJEIMQZ2CBGm?usp=share_link
